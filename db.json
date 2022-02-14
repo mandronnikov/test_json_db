@@ -1,4 +1,11 @@
 {
-  "task_id": 1,
-  "url": "https://lk.gosuslugi.ru/notifications/details/GEPS/3409782624"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
