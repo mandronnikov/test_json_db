@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "id": [
     {
-      "id": 1,
-      "title": "hello"
+      "task_id": 1234,
+      "url": "https://lk.gosuslugi.ru/notifications/details/GEPS/3409782624"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
