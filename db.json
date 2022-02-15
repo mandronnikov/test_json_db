@@ -4,7 +4,7 @@
     "properties": {
         "task": {
             "id": 1,   
-            "title": "Task_Id",  
+            "title": "Task",  
             "type": "string"
         },
         "task_type": {
