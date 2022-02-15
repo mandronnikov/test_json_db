@@ -1,5 +1,4 @@
 {
-    "id": 1,
     "title": "Task for robot",
     "type": "object",
     "properties": {
@@ -9,10 +8,12 @@
             "type": "string"
         },
         "task_type": {
+            "id": 3,
             "title": "Url",
             "type": "string"
         },
         "task_data": {
+            "id": 4,
             "title": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290",
             "type": "object"
         }
