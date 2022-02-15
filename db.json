@@ -1,6 +1,8 @@
 {
+    
     "title": "Task for robot",
     "type": "object",
+    "id": 1,
     "properties": {
         "task_id": {
             "title": "123456",  
