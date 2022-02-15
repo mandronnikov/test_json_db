@@ -17,10 +17,5 @@
             "title": "Task Data",
             "type": "object"
         }
-    },
-    "required": [
-        "task",
-        "task_type",
-        "task_data"
-    ]
+    }
 }
