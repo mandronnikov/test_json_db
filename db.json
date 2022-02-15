@@ -1,23 +1,23 @@
 {
-    "title": "Task",
+    "title": "Task for robot",
     "type": "object",
     "properties": {
         "task_id": {
-            "title": "Task Id",  
+            "title": "123456",  
             "type": "string"
         },
         "task_type": {
-            "title": "Task Type",
+            "title": "Url",
             "type": "string"
         },
         "task_data": {
-            "title": "Task Data",
+            "title": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290",
             "type": "object"
         }
     },
     "required": [
-        "task_id": "123456",
-        "task_type": "url",
-        "task_data": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290" 
+        "task_id",
+        "task_type",
+        "task_data" 
     ]
 }
