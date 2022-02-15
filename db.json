@@ -1,5 +1,5 @@
 {
-       "task_id": {
+       "task": {
             "id": 1,
             "title": "12345",  
             "type": "string"
@@ -8,6 +8,6 @@
             "title": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290",
             "type": "object"
 
-}
+       }
     
 }
