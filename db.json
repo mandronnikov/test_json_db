@@ -1,19 +1,13 @@
 {
-    "title": "Task",
-    "type": "object",
-    "properties": {
-        "ID": 1,
-        "task": {
-            "title": "Task",  
+       "task": {
+            "id": 1,
+            "title": "12345",  
             "type": "string"
-                },
-        "task_type": {
-            "title": "Task Type",
-            "type": "string"
-                    },
+        },
         "task_data": {
-            "title": "Task Data",
+            "title": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290",
             "type": "object"
-                    }
-                  }
+
+}
+    
 }
