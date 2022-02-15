@@ -1,8 +1,23 @@
 {
-  "id": [
-    {
-      "task_id": 1234,
-      "url": "https://lk.gosuslugi.ru/notifications/details/GEPS/3409782624"
-    }
-  ]
+    "title": "Task",
+    "type": "object",
+    "properties": {
+        "task_id": {
+            "title": "Task Id",  
+            "type": "string"
+        },
+        "task_type": {
+            "title": "Task Type",
+            "type": "string"
+        },
+        "task_data": {
+            "title": "Task Data",
+            "type": "object"
+        }
+    },
+    "required": [
+        "task_id": "123456",
+        "task_type": "url",
+        "task_data": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290" 
+    ]
 }
