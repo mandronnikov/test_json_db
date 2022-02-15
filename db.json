@@ -8,10 +8,12 @@
             "type": "string"
         },
         "task_type": {
+            "id": 2,
             "title": "Task Type",
             "type": "string"
         },
         "task_data": {
+            "id": 3,
             "title": "Task Data",
             "type": "object"
         }
