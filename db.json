@@ -2,18 +2,19 @@
     "title": "Task",
     "type": "object",
     "properties": {
+        "id": 1
         "task": {
-            "id": 1,   
+            "id": 2,   
             "title": "Task",  
             "type": "string"
         },
         "task_type": {
-            "id": 2,
+            "id": 3,
             "title": "Task Type",
             "type": "string"
         },
         "task_data": {
-            "id": 3,
+            "id": 4,
             "title": "Task Data",
             "type": "object"
         }
