@@ -1,30 +1,8 @@
 {
-    "id": 1,
-    "title": "Task for robot",
-    "type": "object",
-    "properties": [
-        {
-            "id": 3,
-        "task_id": {
-            "id": 4,
-            "title": "123456",  
-            "type": "string"
-        },
-        "task_type": {
-            "id": 5,
-            "title": "Url",
-            "type": "string"
-        },
+ 
         "task_data": {
             "id": 6,
             "title": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290",
             "type": "object"
-            ]
-        }
-    },
-    "required": [
-        "task_id",
-        "task_type",
-        "task_data" 
-    ]
+
 }
