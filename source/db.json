@@ -1,0 +1,13 @@
+{
+       "task": {
+            "id": 1,
+            "title": "12345",  
+            "type": "string"
+        },
+        "task_data": {
+            "title": "https://lk.gosuslugi.ru/notifications/details/GEPS/3482247290",
+            "type": "object"
+
+                    }
+    
+}
